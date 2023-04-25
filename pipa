@@ -1,2 +1,21 @@
-hdadadadadijkjaliluya
-:£»
+#include<stdio.h>
+void pipa(){
+
+printf("hello world!");
+
+
+
+}
+
+int main
+{
+
+pipa();
+
+
+
+
+return 0 ;
+
+
+}
